@@ -1,5 +1,5 @@
 # SUPER-SIMPLE-CALC
-HERES THE CODE
+open readme to view code
 
 #calc
 N1 = int(input("enter first numeber     "))
@@ -13,4 +13,12 @@ if syntax == "-":
     print ("equation is", N1 - N2)
 if syntax == "*":
     print ("equation is", N1 * N2)
+
+
+
+
+
+
+
+
     
