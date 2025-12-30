@@ -1,5 +1,4 @@
 # SUPER-SIMPLE-CALC
-HERES THE CODE
 
 #calc
 N1 = int(input("enter first numeber     "))
